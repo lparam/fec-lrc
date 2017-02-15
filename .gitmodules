@@ -1,0 +1,3 @@
+[submodule "3rd/lrc-erasure-code"]
+	path = 3rd/lrc-erasure-code
+	url = https://github.com/lparam/lrc-erasure-code
